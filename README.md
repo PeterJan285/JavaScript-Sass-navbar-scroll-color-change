@@ -1,4 +1,4 @@
-# 🛠 JS - Expanding cards
+# 🛠 JS - Navbar scroll color change
 
 # 🔗 [Live Preview](https://63419263ba7c2d5194b2a9e0--sprightly-gnome-8b4978.netlify.app/)
 ![Design preview](./preview.gif)
